@@ -1,0 +1,74 @@
+body {
+	background-color: gray;
+}
+
+.mkbhd {
+	background-color: #3D4345;
+}
+
+.baby-logo {
+    display: block;
+    width: 60px;
+}
+
+.mo-padding {
+	margin: 0px;
+	padding: 0px;
+}
+
+}
+.main img {
+    display: block;
+    margin: 0 auto;
+}
+
+.main {
+	padding: 100px 0px 0px;
+}
+
+.mehrab h1 {
+
+}
+
+.mehrab p {
+
+}
+
+.mehrab h2 {
+
+}
+
+.mehrab {
+	margin: 30px;
+}
+
+nav {
+    margin: 34px 311px;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	display: inline-block;
+}
+
+li img {
+	height: 35px;
+}
+
+.name {
+	text-align: center;
+	color: white
+}
+.namei {
+	text-align: center;
+	color: #e4d0d0;
+}
+h1 {
+	color: white;
+}
+.murgi {
+	padding: 125px 0px;
+}
